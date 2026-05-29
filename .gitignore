@@ -1,0 +1,25 @@
+# OS-filer
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Node (om du seinare legg til verktøy)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Loggar og mellombelse filer
+*.log
+*.tmp
+.cache/
+
+# Miljøvariablar
+.env
+.env.local
